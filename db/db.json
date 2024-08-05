@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "jobTitle": "UX Designe",
+      "name": "Charlie Davi",
+      "id": "3"
+    },
+    {
+      "jobTitle": "Data Scientist",
+      "name": "Diana Evan",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Ethan Foster",
+      "jobTitle": "DevOps Engineer"
+    },
+    {
+      "jobTitle": "Frontend Developer",
+      "name": "George Harr",
+      "id": "7"
+    }
+  ]
+}
